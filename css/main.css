@@ -1,0 +1,85 @@
+.logoFb{
+	width: 60px;
+	height: 60px;
+	background-size: cover;
+}
+.secPublicar{
+	background-color: white;
+	margin: 5px;
+	padding: 8px;
+	height: 140px;
+	border: 1px solid;
+    border-color: #e5e6e9 #dfe0e4 #d0d1d5;
+    border-radius: 3px;
+    margin-bottom: 10px;
+}
+.btnPersonalizado{
+	margin-right: 12px;
+	float: right;
+	background-color: #f6f7f9;
+    border-color: #ced0d4;
+    color: #4b4f56;
+    border: 1px solid;
+    border-radius: 2px;
+    box-sizing: content-box;
+    font-weight: bold;
+    font-size: 12px;
+    padding: 3px 8px;
+}
+
+.rectangulito{
+	border-radius: 3px;
+	color:#365899;
+	display: inline-block;
+	margin: 3px;
+	font-weight: bold;
+	font-size: 12px;
+}
+.foto{
+	width: 35px;
+	height: 35px;
+	background-size: cover;
+}
+.parrafo{
+	margin: 6px 0;
+	word-wrap: break-word;
+	display: inline-block;
+	vertical-align: top;
+	padding: 23px 12px 14px;
+	font-size: 14px;
+	width: 90%;
+	color: rgb(169, 169, 169);
+}
+.boton{
+	border: 1px solid;
+    border-radius: 2px;
+    box-sizing: content-box;
+    padding: 4px  8px;
+	border:none;
+	color: white;
+	width: 15%;
+	font-weight: bold;
+	font-size: 12px;
+	float: right;
+}
+.nuevoPost{
+	background-color: white;
+	margin: 6px;
+	padding: 7px;
+}
+.caraimg{
+	background-image: url("../img/fotoperfil.jpg");
+	background-size: cover;
+	width: 35px;
+	height: 35px;
+	display: inline-block;
+	margin: 3px;
+}
+.nombre{
+	font-weight: bold;
+	color:#365899;
+	vertical-align: top;
+}
+.horaPubli{
+	color:#90949c;
+}
